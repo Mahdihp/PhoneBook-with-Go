@@ -1,0 +1,14 @@
+# comment
+## comment2
+Env="hee" # this line is comment
+DATABASE_TYPE=postgres
+DB_HOST=127.0.0.1
+DB_PORT=5432
+DB_USERNAME=pguser
+DB_DATABASE=test1
+DB_PASSWORD=123456
+
+SERVER_PORT=8000
+
+AWS_SECRET_KEY=fake_secret
+AWS_ACCESS_KEY_ID=fake_key_id
